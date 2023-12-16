@@ -68,12 +68,19 @@ freight_value —  вес товара
 - Уникальные статусы заказов в таблице olist_orders_dataset.csv:
 
 created —  создан;
+
 approved —  подтверждён;
+
 invoiced —  выставлен счёт;
+
 processing —  в процессе сборки заказа;
+
 shipped —  отгружен со склада;
+
 delivered —  доставлен пользователю;
+
 unavailable —  недоступен;
+
 canceled —  отменён;
 
 
